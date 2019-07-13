@@ -12,6 +12,7 @@
  Operations related to creation, activation or deactivation of toggles overrides for specific clients
  
  http://host:8080/toggles-exclusions
+ 
  Operations related to creation, activation or deactivation of toggles exclusions for specific clients
  
  Explore the online documentation for theses methods at http://host:8080/swagger-ui.html
