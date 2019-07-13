@@ -1,0 +1,37 @@
+{
+  "_embedded": {
+    "toggleList": [
+      {
+        "identifier": "isButtonBlue",
+        "value": true,
+        "active": true,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/toggles/isButtonBlue"
+          },
+          "toggles": {
+            "href": "http://localhost:8080/toggles"
+          }
+        }
+      },
+      {
+        "identifier": "isButtonGreen",
+        "value": true,
+        "active": true,
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/toggles/isButtonGreen"
+          },
+          "toggles": {
+            "href": "http://localhost:8080/toggles"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://localhost:8080/toggles"
+    }
+  }
+}
